@@ -3,7 +3,7 @@ export default defineNuxtConfig({
     generate: {
         routes: [
             '/journal/:id',
-            // add additional dynamic routes here as needed
+            '/'
         ],
     },
 })

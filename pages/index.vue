@@ -1,4 +1,4 @@
-<script setup>
+<script>
 definePageMeta({
     middleware: ["auth"]
 })
@@ -6,8 +6,6 @@ definePageMeta({
 
 <template>
     <div>
-        <Header />
-        <!-- <NuxtWelcome /> -->
-        <NuxtPage />
+        nesto
     </div>
 </template>
