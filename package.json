@@ -8,9 +8,10 @@
         "postinstall": "nuxt prepare"
     },
     "devDependencies": {
+        "@types/node": "^18.13.0",
         "nuxt": "^3.1.1"
     },
     "dependencies": {
-        "@suits/ss-design-system": "^6.1.0"
+        "contentful": "^9.3.0"
     }
 }
