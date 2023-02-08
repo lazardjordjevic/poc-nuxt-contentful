@@ -1,6 +1,6 @@
 'use strict';
 
-import {createClient} from 'contentful';
+import { createClient } from 'contentful';
 
 const defaultLocale = "en-US";
 const journalPageContentType = "contentPage";
