@@ -3,7 +3,7 @@ export default defineNuxtConfig({
     generate: {
         routes: ['/journal/:id', '/'],
     },
-    // build: {
-    //     transpile: ['contentful'],
-    // },
+    build: {
+        transpile: ['contentful'],
+    },
 })
