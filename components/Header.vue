@@ -1,5 +1,5 @@
 <template>
-    <header class="header">
+    <header class="header" id="header">
         <div class="header__wrap">
             Suitsupply
         </div>
