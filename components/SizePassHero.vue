@@ -1,7 +1,7 @@
 <script setup>
 const props = defineProps({ sizePassHeroData: Object });
 const { internalTitle, altText } = props.sizePassHeroData.content[0].fields;
-const src = 'https://cdn.suitsupply.com/image/upload/fl_progressive,f_auto,q_auto,w_564/suitsupply/assets/fw21/size-passport/size-passport-model.png';
+const src = 'https://cdn.suitsupply.com/image/upload/fl_progressive,f_auto,q_auto,w_1100/suitsupply/assets/fw21/size-passport/size-passport-model.png';
 </script>
 
 <template>
@@ -105,7 +105,7 @@ const src = 'https://cdn.suitsupply.com/image/upload/fl_progressive,f_auto,q_aut
 		width: 100%;
 		position: relative;
 		max-width: 1100px;
-		height: 1500px;
+		// height: 1500px;
 
 		@include media-breakpoint-up(xl) {
 			margin: -55px auto 0;

@@ -41,7 +41,7 @@
         height: 55px;
         padding: 0 22px;
         position: relative;
-        background-color: var(--color-surface);
+        background-color: #fff;
     }
 
     @include media-breakpoint-down(lg) {
