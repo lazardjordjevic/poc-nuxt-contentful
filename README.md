@@ -1,3 +1,11 @@
+# Lazer comments
+Node version 18.0.0
+
+While developing locoaly comment out the build settings in nuxt.config.ts because reasons
+    // build: {
+    //     transpile: ['contentful'],
+    // },
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
